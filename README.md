@@ -1,4 +1,4 @@
-# Q Learning Whale Simulation
+# Q Learning Simulation
 
 ## Overview
 
