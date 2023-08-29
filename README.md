@@ -36,7 +36,7 @@ pip install -r requirements.txt
 3. Run the `main.py` script to start the simulation:
 
    ```bash
-   python src/main.py
+   python src/q_whale.py
    ```
 
 ## Output
