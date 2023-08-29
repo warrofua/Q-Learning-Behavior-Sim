@@ -33,7 +33,7 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-3. Run the `main.py` script to start the simulation:
+3. Run the `q_whale.py` script to start the simulation:
 
    ```bash
    python src/q_whale.py
@@ -46,9 +46,4 @@ The output will be a time-series plot showing the proportion of time spent in ea
 ## License
 
 This project is licensed under the GNU General Public License (GPL-3.0) - see the LICENSE file for details.
-
-## Acknowledgements
-
-- Inspired by the behavior of real-world organisms
-- Q-learning and Monte Carlo methods for decision-making
 
