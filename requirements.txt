@@ -1,0 +1,13 @@
+# Packages required for the Q Learning Whale simulation
+
+# For numerical operations
+random==1.0.1
+
+# For data manipulation
+pandas==1.3.3
+
+# For plotting and visualizations
+matplotlib==3.4.3
+
+# For datetime operations
+datetime==4.3
