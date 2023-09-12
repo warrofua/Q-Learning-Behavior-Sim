@@ -8,7 +8,6 @@ Q Whale is a simulation model that uses Q-learning to adapt the behavior of an o
 
 - Adaptive Behavior based on internal states
 - Q-learning algorithm for decision-making
-- Monte Carlo elements for randomness
 - Time-series data for behavior and state tracking
 
 ## Requirements
