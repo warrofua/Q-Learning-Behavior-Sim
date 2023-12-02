@@ -36,31 +36,14 @@ Create and Save GIF: Combine the saved image frames into a GIF to visualize the 
 - Pandas
 - Matplotlib
 - Datetime
+- Pillow
+- Numpy
 
 You can install the required packages using:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-## How to Run
-
-1. Clone this repository.
-2. Navigate to the project directory and install the dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the `q_whale.py` script to start the simulation:
-
-   ```bash
-   python src/q_whale.py
-   ```
-
-## Output
-
-The output will be a time-series plot showing the proportion of time spent in each behavior and the corresponding internal states.
 
 ## License
 
