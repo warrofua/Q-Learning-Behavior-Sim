@@ -1,5 +1,3 @@
-# Q Learning Simulation
-
 ## Overview
 
 This is a simulation model that uses Q-learning to adapt the behavior of an organism based on its internal states and output the results as a gif to view the changes over time.
