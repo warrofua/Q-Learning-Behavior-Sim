@@ -7,7 +7,9 @@ This is a simulation model that uses Q-learning to adapt the behavior of an orga
 Roughly speaking, this python app will do the following:
 
 Utilize:
+
 get_reward: Calculates the reward for a behavior based on the current states.
+
 update_states: Updates the internal states of the organism after a given behavior is performed.
 
 Run a loop from the start time to the end time, incrementing the time in defined steps.
