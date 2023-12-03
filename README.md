@@ -1,5 +1,6 @@
 ## Overview
 
+
 This is a simulation model that uses Q-learning to adapt the behavior of an organism based on its internal states and output the results as a gif to view the changes over time.
 
 Roughly speaking, this python app will do the following:
@@ -35,7 +36,6 @@ Create and Save GIF: Combine the saved image frames into a GIF to visualize the 
 - Python 3.x
 - Pandas
 - Matplotlib
-- Datetime
 - Pillow
 - Numpy
 
