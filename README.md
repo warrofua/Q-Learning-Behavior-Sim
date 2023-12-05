@@ -24,6 +24,12 @@ Use Matplotlib to create plots showing the changes in states and behaviors over 
 Save each plot as an image frame using PIL. 
 Create and Save GIF: Combine the saved image frames into a GIF to visualize the behavior changes over time.
 
+A slow learner (Alpha = 0.4)
+![Behavior_Simulation_20231203181305_alpha_0 4_gamma_0 7_epsilon_0 8](https://github.com/warrofua/Q-Learning-Behavior-Sim/assets/41028474/6300f9ff-5f08-41f4-8084-c9ba8d3ab4b7)
+
+A fast learner (Alpha = 0.99)
+![Behavior_Simulation_20231205180758_alpha_0 99_gamma_0 7_epsilon_0 8](https://github.com/warrofua/Q-Learning-Behavior-Sim/assets/41028474/8e78c598-030c-4823-9ba0-9c73cdabc2fe)
+
 
 ## Features
 
